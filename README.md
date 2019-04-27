@@ -13,7 +13,7 @@ $ pip install nltk
 ```
 ## Running The Program
 ### Data Preprocessing
-run global.py to return the levetnshtein distance and corresponding predicted result in the pre_global.txt
-run ngrams.py to return the 2-gram distance and corresponding predicted result in the pre_ngram.txt
+Run global.py to return the levetnshtein distance and corresponding predicted result in the pre_global.txt
+Run ngrams.py to return the 2-gram distance and corresponding predicted result in the pre_ngram.txt
 ### Data Analysis
-run evaluate.py to calculate precision and recall which will display in the screen.
+Run evaluate.py to calculate precision and recall which will display in the screen.
