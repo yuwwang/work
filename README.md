@@ -12,6 +12,7 @@ $ pip install python-Levenshtein
 $ pip install nltk
 ```
 Levenshtein.distance() is used to calculate Levenshtein distance between two strings.
+
 nltk.bigrams() is used to break a string into 2-grams form.
 
 ## Running The Program
