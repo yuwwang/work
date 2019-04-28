@@ -11,10 +11,13 @@ Python 2.7 or newer is required
 $ pip install python-Levenshtein
 $ pip install nltk
 ```
+Levenshtein.distance() is used to calculate Levenshtein distance between two strings.
+nltk.bigrams() is used to break a string into 2-grams form.
+
 ## Running The Program
 ### Data Preprocessing
-Run global.py to return the levetnshtein distance and corresponding predicted result in the pre_global.txt
+Run LD.py to return the levetnshtein distance and corresponding predicted results in the pre_global.txt
 
-Run ngrams.py to return the 2-gram distance and corresponding predicted result in the pre_ngram.txt
-### Data Analysis
-Run evaluate.py to calculate precision and recall which will display in the screen.
+Run n_gram.py to return the 2-gram distance and corresponding predicted results in the pre_ngram.txt
+### Data Evaluation
+Run evaluate.py to calculate precision and recall and print the results in the screen.
