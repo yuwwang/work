@@ -5,7 +5,7 @@ Two methods for approximate string matching were used in the python script.
 * Levenshtein Distance
 * N-gram (N=2) algorithm
 ## Getting Started
-Python 2.2 or newer is required
+Python 2.7 or newer is required
 ### install Python Packages with Pip
 ```
 $ pip install python-Levenshtein
